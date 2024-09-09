@@ -1,0 +1,5 @@
+C:\Users\KARINA\Downloads\desafio target\FaturamentoApp\obj\Debug\net8.0\FaturamentoApp.csproj.AssemblyReference.cache
+C:\Users\KARINA\Downloads\desafio target\FaturamentoApp\obj\Debug\net8.0\FaturamentoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARINA\Downloads\desafio target\FaturamentoApp\obj\Debug\net8.0\FaturamentoApp.AssemblyInfoInputs.cache
+C:\Users\KARINA\Downloads\desafio target\FaturamentoApp\obj\Debug\net8.0\FaturamentoApp.AssemblyInfo.cs
+C:\Users\KARINA\Downloads\desafio target\FaturamentoApp\obj\Debug\net8.0\FaturamentoApp.csproj.CoreCompileInputs.cache
